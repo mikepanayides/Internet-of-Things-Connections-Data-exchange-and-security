@@ -1,0 +1,19 @@
+For the VM:
+asm4deaf_admin (username)
+3#v8J*T*nrW#^M69T (password)
+
+For the DB on the VM:
+root (username)
+root_ (password)
+
+For the website wp-admin (asm4deaf.eu):
+asm4deaf (username)
+1seitlab2! (password)
+
+For the wp database:
+asm4deaf (db name)
+8MlhNzeJWf9Ouzdh (password)
+
+Gmail account for the project (Alex also has access to this one):
+asm4deaf@gmail.com (address)
+y75JKbQENpSRb3! (password)
